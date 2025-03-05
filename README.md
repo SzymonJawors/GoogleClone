@@ -19,7 +19,7 @@ The purpose of this project is to familiarize myself with the fundamentals of we
 - **HTML:** Used to structure the content of the webpage.
 - **CSS:** Used for styling and ensuring the page is visually appealing and responsive.
 
-/POLSIH/
+/POLISH/
 
 # Klon Google - Projekt na Certyfikat z Harvardu
 
@@ -37,5 +37,5 @@ Celem tego projektu jest zapoznanie się z podstawami web developmentu, takimi j
 
 ## Technologie
 
-- **HTML:** Służy do strukturalizacji treści strony.
+- **HTML:** Struktura strony
 - **CSS:** Służy do stylizacji i zapewnia, że strona jest estetyczna i responsywna.
