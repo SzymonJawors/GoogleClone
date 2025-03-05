@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="shortcut icon" href="favicongoogle.png" type="image/x-icon">
+        <title>Advanced Search</title>
+    </head>
+    <body>
+        <div id="menu">
+            <img src="google.png" alt="Google Logo">
+            <a href="index.html">Google Search</a>
+            <a href="image.html">Image Search</a>
+        </div>
+        <div id="advanced-container">
+            <p id="advanced">Advanced Search</p>
+        </div>
+        <hr>
+        <div id="pages-container">
+            <form action="https://www.google.com/search">
+                <h3>Find pages with...</h3>
+                <table>
+                    <tr>
+                        <td>all these words:</td>
+                        <td><input type="text" name="as_q" class="adv-inputs" id="words"></td>
+                    </tr>
+                    <tr>
+                        <td>this exact word or phrase:</td>
+                        <td><input type="text" name="as_epq" class="adv-inputs" id="exact"></td>
+                    </tr>
+                    <tr>
+                        <td>any of these words:</td>
+                        <td><input type="text" name="as_oq" class="adv-inputs" id="any"></td>
+                    </tr>
+                    <tr>
+                        <td>none of these words:</td>
+                        <td><input type="text" name="as_eq" class="adv-inputs" id="none"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="submit" value="Advanced Search" id="adv-button"></td>
+                    </tr>
+                </table>
+            </form>
+            <hr>
+        </div>
+
+
+
+    </body>
+</html>
